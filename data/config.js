@@ -28,7 +28,7 @@ module.exports = {
 	},
 	contact: {
 		email: 'contact@tylerjdev.com',
-		phone: '',
+		phone: '703-436-9507',
 	},
 	foundingDate: '2019',
 	recaptcha_key: '6Lflg7UUAAAAAEJanAfdoF-X8KXYj5MxrVpehzPT'

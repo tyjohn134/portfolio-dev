@@ -11,7 +11,7 @@ export const Skills = () => (
 				<img src={dev} alt="I’m Tyler. I'm a Software Engineer." />
 			</Thumbnail>
 			<Details>
-				<h1>Hi There!</h1>
+				<h1>About Me</h1>
 				<p>
 					I'm a programmer based out of the Northern Virginia area. I recently graduated 
 					from Old Dominion University with a Bacholers in Computer Science. I enjoy working
