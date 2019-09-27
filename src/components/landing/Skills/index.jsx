@@ -8,13 +8,12 @@ export const Skills = () => (
 	<Wrapper id="about">
 		<SkillsWrapper as={Container}>
 			<Thumbnail>
-				<img src={dev} alt="I’m Tyler. I'm a Software Engineer." />
+				<img src={dev} alt="I’m Tyler. I build web applications." />
 			</Thumbnail>
 			<Details>
 				<h1>About Me</h1>
 				<p>
-					I'm a programmer based out of the Northern Virginia area. I recently graduated 
-					from Old Dominion University with a Bacholers in Computer Science. I enjoy working
+					I recently graduated from Old Dominion University with a Bacholers in Computer Science. I enjoy working
 					on both front-end and back-end projects. I'm currently learning VueJS and GraphQL.
 				</p>
 			</Details>
